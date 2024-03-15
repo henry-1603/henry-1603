@@ -21,8 +21,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=5&username=henry-1603" alt="Layout with last medium posts"  />
-</div>
+<img src="https://streak-stats.demolab.com?user=henry-1603&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=10&date_format=j M[ Y]" height="200" alt="streak graph"  />
 
 ###
